@@ -48,21 +48,21 @@ basic_info:
     # languages you speak, levels inculde: Native, Professional
     languages:
       - idiom: English
+        level: Fluent
+
+      - idiom: Italian
         level: Native
 
-      - idiom: French
-        level: Entry Level
-
       - idiom: Spanish
-        level: Entry Level
+        level: Fluent
 
     # Interests or hobies
     interests:
-      - item: Running
+      - item: Gym
 
-      - item: Yoga
+      - item: Martial Arts
 
-      - item: Painting
+      - item: Reading
 
 # Your previous education
 education:
